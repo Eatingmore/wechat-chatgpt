@@ -185,5 +185,5 @@ Contributions, issues and feature requests are welcome!<br />Feel free to
 check [issues page](https://github.com/fuergaosi233/wechat-chatgpt/issues).
 
 ## Show your support
-
+trigger
 Give a ⭐️ if this project helped you!
